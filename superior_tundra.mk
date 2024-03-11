@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2023 The AwakenOS Project
+# Copyright (C) 2024 Superior-Extended
 #
 # SPDX-License-Identifier: Apache-2.0
 #
